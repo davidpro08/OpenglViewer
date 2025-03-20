@@ -1,4 +1,6 @@
+실행 결과
+![image](https://github.com/user-attachments/assets/fdc96cb7-b5bd-4f29-801c-9c39ad2e815f)
+
 그냥 다운 받고 실행하시면 됩니다.
 각각의 클래스들을 다른 파일로 나누려고 했는데, 무슨 이유인지 모르겠지만 나누려고만 하면 오류가 생기더군요...
 다 찾아봐도 해결방법이 없어서 그냥 올립니다. 죄송합니다 ㅠㅠ
-![image](https://github.com/user-attachments/assets/6a716915-8777-4c46-b25d-787616ecab70)
